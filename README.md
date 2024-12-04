@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @boutetr
-- 👀 I’m interested in coding, climbing, and others sports in general.
-- 🌱 I’m currently learning a lot a languages ! I'm a student in software engineering, it's the beginning :D
-- 📫 How to reach me remi.boutet@etu.u-pec.fr
+- 👀 I’m interested in coding, cars, climbing, and others sports in general.
+- 🌱 I’m currently studying mechanic ! Ex-developer which continue to code after his career change ;p
