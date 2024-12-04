@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @boutetr
 - 👀 I’m interested in coding, cars, climbing, and others sports in general.
-- 🌱 I’m currently studying mechanic ! Ex-developer which continue to code after his career change ;p
+- 🌱 I’m currently studying mechanic ! Ex-developer which continue to code despite his career change ;p
